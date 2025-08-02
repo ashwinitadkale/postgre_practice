@@ -22,9 +22,6 @@ This is a database-only Library Management System built in PostgreSQL. It models
 - `schema.sql`: Table creation scripts
 - `insert_data.sql`: Sample entries
 - `queries.sql`: Useful SQL statements
-- `ERD.png`: (Optional) Database design diagram
 
-## 🚀 Getting Started
-```bash
-psql -U your_username -d your_dbname -f schema.sql
-psql -U your_username -d your_dbname -f insert_data.sql
+
+
